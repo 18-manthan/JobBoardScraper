@@ -5,7 +5,7 @@ Two supported setups: with Docker, and without Docker (native).
 Option A: Docker (API + Postgres + Redis)
 - Prerequisites: Docker Desktop running
 - Steps:
-  1) git clone <REPO_URL> && cd JobBoardScraper
+  1) git clone https://github.com/18-manthan/JobBoardScraper.git && cd JobBoardScraper
   2) docker compose up --build
   3) API: http://127.0.0.1:8000 (docs at /docs)
   4) API: http://127.0.0.1:8000/docs (swagger)
