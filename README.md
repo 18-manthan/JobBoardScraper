@@ -8,6 +8,8 @@ Features
 - Save jobs to DB with filters (search/company/location/source/liked/applied)
 - Update liked/applied
 - Export applied jobs to CSV
--  Redis cache for scrape responses
+- Redis cache for scrape responses
+
+In job scraping, if you set the limit to 3, it will fetch 9 jobs, 3 from each platform. Same logic applies for any limit.
 
 
