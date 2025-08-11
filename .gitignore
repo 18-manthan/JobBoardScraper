@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+.vscode/
+.idea/
+.DS_Store
+.pytest_cache/
