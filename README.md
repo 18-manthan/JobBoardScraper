@@ -1,3 +1,5 @@
+The project installation steps are documented in the `INSTALL.md`.
+
 Job Aggregator API
 
 FastAPI backend to scrape multiple job boards asynchronously, save jobs to Postgres, and export applied jobs to CSV. Includes optional Redis caching.
